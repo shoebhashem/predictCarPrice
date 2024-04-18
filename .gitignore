@@ -1,0 +1,3 @@
+# Ignore car_prices.csv file
+car_prices.csv
+saved_model.pkl
